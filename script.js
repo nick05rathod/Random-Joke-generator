@@ -9,7 +9,7 @@ const jokes = ['What do you call a couple of chimpanzees sharing an Amazon accou
 
 
 let jokeDisplay = document.getElementById('joke');
-let randomJokes = Math.floor(Math.random('jokes') *8);
+let randomJokes = Math.floor(Math.random('jokes') *4);
 
 joke.innerHTML = ` "${jokes[randomJokes]}"`;
 }

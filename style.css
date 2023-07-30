@@ -42,7 +42,7 @@ h1{
     transition: transform 0.5s;
   }
   
-#gen-button{
+button{
     min-width: 130px;
     height: 40px;
     color: #fff;
